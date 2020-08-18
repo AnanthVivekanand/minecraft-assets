@@ -1,0 +1,65 @@
+{
+  "authenticationDatabase" : {
+    "be2f2b172a1f3a4fa8e7089b482b9ac7" : {
+      "accessToken" : "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJiZTJmMmIxNzJhMWYzYTRmYThlNzA4OWI0ODJiOWFjNyIsInlnZ3QiOiJlOWRkMmQ0ZDUxYzY0ZmIxYTRlZTI0N2JlZjU3NjIzMSIsInNwciI6ImUxMjUxNDY5NmUzOTQ4ZjhiZWNjOTNhYjliOWEzMmVkIiwiaXNzIjoiWWdnZHJhc2lsLUF1dGgiLCJleHAiOjE1ODQzMTgwMjYsImlhdCI6MTU4NDE0NTIyNn0.2WXGZqgxhL_WLROpH1Y-XA5c4q1Etw91LWaSZ3eE8lI",
+      "profiles" : {
+        "e12514696e3948f8becc93ab9b9a32ed" : {
+          "displayName" : "kainathan"
+        }
+      },
+      "properties" : [],
+      "username" : "gamer.email24ftw@gmail.com"
+    }
+  },
+  "clientToken" : "5a6c414952c24bea9b9ac5d1c49b8cf7",
+  "launcherVersion" : {
+    "format" : 21,
+    "name" : "",
+    "profilesFormat" : 2
+  },
+  "profiles" : {
+    "4c12a8e97495fa68a6ab50782de3dc96" : {
+      "created" : "1970-01-01T00:00:00.000Z",
+      "icon" : "Crafting_Table",
+      "lastUsed" : "1970-01-01T00:00:00.000Z",
+      "lastVersionId" : "latest-snapshot",
+      "name" : "",
+      "type" : "latest-snapshot"
+    },
+    "a882abe94608d1d1d0491eebec3ba739" : {
+      "created" : "2020-03-14T00:20:50.617Z",
+      "icon" : "Furnace",
+      "lastUsed" : "2020-03-14T21:35:41.775Z",
+      "lastVersionId" : "1.8.9",
+      "name" : "1.8.9",
+      "type" : "custom"
+    },
+    "faad9284aefec5dce99d362738992ed3" : {
+      "created" : "1970-01-02T00:00:00.000Z",
+      "icon" : "Grass",
+      "lastUsed" : "1970-01-02T00:00:00.000Z",
+      "lastVersionId" : "latest-release",
+      "name" : "",
+      "type" : "latest-release"
+    }
+  },
+  "selectedUser" : {
+    "account" : "be2f2b172a1f3a4fa8e7089b482b9ac7",
+    "profile" : "e12514696e3948f8becc93ab9b9a32ed"
+  },
+  "settings" : {
+    "channel" : "release",
+    "crashAssistance" : true,
+    "enableAdvanced" : false,
+    "enableAnalytics" : true,
+    "enableHistorical" : false,
+    "enableReleases" : true,
+    "enableSnapshots" : false,
+    "keepLauncherOpen" : false,
+    "locale" : "en-US",
+    "profileSorting" : "ByLastPlayed",
+    "showGameLog" : false,
+    "showMenu" : false,
+    "soundOn" : false
+  }
+}
