@@ -1,0 +1,636 @@
+{
+  "version": 3.1,
+  "configRevision": 1,
+  "nuker_blocks": [],
+  "ghosthand_blocks": [],
+  "esp_blocks": [],
+  "auto_eject_items_new": [],
+  "esp_mobs": [],
+  "aura_mobs": [],
+  "alts": [],
+  "auto_commands": [],
+  "mainmenu": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "properties": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "autoeat": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "autoeject": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "autofish": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "automine": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "autocommand": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "autoparkour": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "autoreconnect": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "autosneak": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "autojump": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "autosprint": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "autochest": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "autotool": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "autototem": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "autowalk": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "autosign": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "autopot": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "autosoup": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "combatsettings": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "criticals": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "autoarmor": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "autodisconnect": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "autorespawn": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "bowaimbot": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "killaura": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "reach": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "regen": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "triggerbot": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "autoclicker": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "activemods": {
+    "keybind": -1,
+    "state": true,
+    "pinned": true
+  },
+  "armordisplay": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "bettercrosshair": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "gui": {
+    "keybind": 344,
+    "state": false,
+    "pinned": false,
+    "background_color": -13812144,
+    "centered_text": false,
+    "smooth_scroll": true
+  },
+  "hud": {
+    "keybind": -1,
+    "state": true,
+    "pinned": true
+  },
+  "portalhud": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "tabgui": {
+    "keybind": -1,
+    "state": true,
+    "pinned": true
+  },
+  "radar": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "miniplayer": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "antislowdown": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "bhop": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "fishmode": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "blink": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "bunnyjump": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "elytraflight": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "fastladders": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "flight": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "freecam": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "glide": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "looklock": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "inventorywalk": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "jesus": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "nofall": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "velocity": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "airjump": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "safewalk": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "scaffoldwalk": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "fastbridge": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "speed": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "spider": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "step": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "waterjump": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "jetpack": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "horsejump": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "antiafk": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "annoy": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "chatcolor": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "chatmute": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "chatspammer": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "derp": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "fancychat": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "ghosthand": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "irc-mute": {
+    "keybind": -1,
+    "state": true,
+    "pinned": false
+  },
+  "nameprotect": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "oneclickfriends": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "skinblinker": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "twerk": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "unfocusedcpu": {
+    "keybind": -1,
+    "state": true,
+    "pinned": false
+  },
+  "shulkerpeek": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "inventory++": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "antianimation": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "antiblind": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "betternametags": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "breadcrumbs": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "esp": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "fullbright": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "noweather": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "chunkviewer": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "structurefinder": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "tracers": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "trajectories": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "truesight": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "waypoints": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "xray": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "rainbowenchant": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "blockesp": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "dinnerbone": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "barriervision": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "staticvision": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "fastbreak": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "fastplace": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "nuker": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "timer": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "anticactus": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "antihoney": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "antiberrybush": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "murdermysteries": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "prophunt": {
+    "keybind": -1,
+    "state": false,
+    "pinned": false
+  },
+  "friends": [],
+  "waypoints_array": [
+    {
+      "x": -14,
+      "y": 65,
+      "z": 261,
+      "color": -20561,
+      "name": "Death",
+      "enabled": true,
+      "server": "play.minewind.com"
+    }
+  ],
+  "macros": [],
+  "user_ignore_list": [],
+  "first_time_setup_": true,
+  "first_launch_screen": true,
+  "first_launch_screen_12": true,
+  "current_aristois_version": 285,
+  "gui_x_location": 10,
+  "gui_y_location": 10,
+  "gui_width": 220,
+  "gui_collapsed": true,
+  "gui_height": 440,
+  "combat_x_location": 240,
+  "combat_y_location": 10,
+  "combat_width": 220,
+  "combat_collapsed": true,
+  "combat_height": 440,
+  "movement_x_location": 470,
+  "movement_y_location": 10,
+  "movement_width": 220,
+  "movement_collapsed": true,
+  "movement_height": 440,
+  "other_x_location": 10,
+  "other_y_location": 60,
+  "other_width": 220,
+  "other_collapsed": true,
+  "other_height": 440,
+  "render_x_location": 240,
+  "render_y_location": 60,
+  "render_width": 220,
+  "render_collapsed": true,
+  "render_height": 440,
+  "world_x_location": 470,
+  "world_y_location": 60,
+  "world_width": 220,
+  "world_collapsed": true,
+  "world_height": 320,
+  "minigame_x_location": 10,
+  "minigame_y_location": 110,
+  "minigame_width": 220,
+  "minigame_collapsed": true,
+  "minigame_height": 120,
+  "search_x_location": 10,
+  "search_y_location": 160,
+  "search_width": 220,
+  "search_collapsed": true,
+  "search_height": 80,
+  "auto_x_location": 10,
+  "auto_y_location": 210,
+  "auto_width": 220,
+  "auto_collapsed": false,
+  "auto_height": 440,
+  "render_fluids": true,
+  "xray_blocks": [
+    "obsidian",
+    "gold_ore",
+    "redstone_ore",
+    "emerald_block",
+    "iron_block",
+    "diamond_block",
+    "iron_ore",
+    "diamond_ore",
+    "end_portal_frame",
+    "lapis_block",
+    "lapis_ore",
+    "spawner",
+    "gold_block",
+    "coal_ore",
+    "emerald_ore"
+  ]
+}
