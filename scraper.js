@@ -51,3 +51,5 @@ function getAndParseJson(url) {
 let url = "https://launchermeta.mojang.com/mc/game/version_manifest.json";
 getAndParseJson(url)
 
+// run within files/
+// xargs -n 1 -P 8 wget -np -r -nc < ../urls.list
